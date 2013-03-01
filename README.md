@@ -1,0 +1,2 @@
+simple-remove-dashboard-widgets
+===============================
